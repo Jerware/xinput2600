@@ -8,6 +8,13 @@ to XInput, combining either two Joysticks or four Paddles (or any combination) i
 
 As a bonus, it also supports the hidden Atari games in Tesla automobiles so you can play them with a real Atari joystick.
 
+I have provided source code and pre-compiled .HEX firmware. To flash the compiled firmware on a Teensy LC, use the official
+[Teensy Loader](https://www.pjrc.com/teensy/loader.html) application.
+
+**Note**: If you only want Joystick functionality (i.e. no Paddles), you don't need to include most of the components on the PCB. 
+You'll only need the PCB, Teensy LC, D-Sub Plugs, and optionally the male & female headers. In this case, please install 
+the "JoystickOnly" firmware.
+
 **Here is the complete components list:**
 
 * [PCB](https://oshpark.com/shared_projects/ybyjPbuy)
@@ -20,7 +27,7 @@ As a bonus, it also supports the hidden Atari games in Tesla automobiles so you 
 * [14 Position Female Headers](https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC141LFBN-RC/S7012-ND/810152) (2)
 * [2 Position Male Headers](https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/640456-2/A1921-ND/109003) (3) _Optional_
 
-I have provided source code and pre-compiled .HEX firmware. To installed the compiled firmware on a Teensy LC, use the [Teensy Loader](https://www.pjrc.com/teensy/loader.html) application. The XInput functionality is based on the excellent [MSF_FightStick XINPUT](https://github.com/zlittell/MSF-XINPUT) project 
+The XInput functionality is based on the excellent [MSF_FightStick XINPUT](https://github.com/zlittell/MSF-XINPUT) project 
 by Zack "Reaper" Littell.
 
 Default mappings:
