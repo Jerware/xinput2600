@@ -8,7 +8,7 @@ to XInput, combining either two Joysticks or four Paddles (or any combination) i
 
 As an added bonus, it also supports the hidden Atari games in Tesla automobiles so you can play them with real Atari controllers.
 
-**NOTE**: If you only need joystick functionality, you don't need to install all of the extra components on the PCB. You only need the D-SUB Plug controller ports and a Teensy LC. For paddle support, you need everything. Here is the complete components list:
+**NOTE**: If you only need joystick functionality, you don't need to install all of the extra components on the PCB. You only need the D-SUB Plug controller ports and a Teensy LC (and optionally the female headers). For paddle support, you need everything. Here is the complete components list:
 
 * [Teensy LC](https://www.pjrc.com/store/teensylc.html)
 * [D-SUB PLUGS](https://www.digikey.com/product-detail/en/amphenol-icc-fci/LD09P13A4GX00LF/609-5183-ND/4997285) (2)
