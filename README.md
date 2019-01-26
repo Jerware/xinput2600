@@ -8,8 +8,9 @@ to XInput, combining either two Joysticks or four Paddles (or any combination) i
 
 As a bonus, it also supports the hidden Atari games in Tesla automobiles so you can play them with a real Atari joystick.
 
-**NOTE**: If you only need joystick functionality, you don't need to install all of the extra components on the PCB. You only need the D-SUB Plug ports and a Teensy LC (and optionally the female headers). For paddle support, you need everything. Here is the complete components list:
+**Here is the complete components list:**
 
+* [PCB](https://oshpark.com/shared_projects/ybyjPbuy)
 * [Teensy LC](https://www.pjrc.com/store/teensylc.html)
 * [D-SUB PLUGS](https://www.digikey.com/product-detail/en/amphenol-icc-fci/LD09P13A4GX00LF/609-5183-ND/4997285) (2)
 * [1 kOhm Resistors](https://www.digikey.com/product-detail/en/stackpole-electronics-inc/CF14JT1K00/CF14JT1K00CT-ND/1830350) (4)
@@ -17,7 +18,7 @@ As a bonus, it also supports the hidden Atari games in Tesla automobiles so you 
 * [1 MegaOhm Resistor Array](https://www.digikey.com/product-detail/en/bourns-inc/4605X-101-105LF/4605X-101-105LF-ND/3787497)
 * [LM324N OpAmp](https://www.digikey.com/product-detail/en/texas-instruments/LM324N/296-1391-5-ND/277627)
 * [14 Position Female Headers](https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC141LFBN-RC/S7012-ND/810152) (2)
-* [2 Position Male Headers](https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/640456-2/A1921-ND/109003) (3)
+* [2 Position Male Headers](https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/640456-2/A1921-ND/109003) (3) _Optional_
 
 I have provided source code and pre-compiled .HEX firmware. To installed the compiled firmware on a Teensy LC, use the [Teensy Loader](https://www.pjrc.com/teensy/loader.html) application. The XInput functionality is based on the excellent [MSF_FightStick XINPUT](https://github.com/zlittell/MSF-XINPUT) project 
 by Zack "Reaper" Littell.
