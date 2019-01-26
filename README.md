@@ -19,7 +19,7 @@ As a bonus, it also supports the hidden Atari games in Tesla automobiles so you 
 * [14 Position Female Headers](https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC141LFBN-RC/S7012-ND/810152) (2)
 * [2 Position Male Headers](https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/640456-2/A1921-ND/109003) (3)
 
-I have provided source code and pre-compiled .HEX firmware. The XInput functionality is based on the excellent [MSF_FightStick XINPUT](https://github.com/zlittell/MSF-XINPUT) project 
+I have provided source code and pre-compiled .HEX firmware. To installed the compiled firmware on a Teensy LC, use the [Teensy Loader](https://www.pjrc.com/teensy/loader.html) application. The XInput functionality is based on the excellent [MSF_FightStick XINPUT](https://github.com/zlittell/MSF-XINPUT) project 
 by Zack "Reaper" Littell.
 
 Default mappings:
