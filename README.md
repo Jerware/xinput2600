@@ -14,7 +14,7 @@ As a bonus, it also supports the hidden Atari games in Tesla automobiles so you 
 * [Teensy LC](https://www.pjrc.com/store/teensylc.html)
 * [D-SUB PLUGS](https://www.digikey.com/product-detail/en/amphenol-icc-fci/LD09P13A4GX00LF/609-5183-ND/4997285) (2)
 * [1 kOhm Resistors](https://www.digikey.com/product-detail/en/stackpole-electronics-inc/CF14JT1K00/CF14JT1K00CT-ND/1830350) (4)
-* [10uF Capacitors](https://www.digikey.com/product-detail/en/tdk-corporation/FG14X7R1A106KRT06/445-173132-1-ND/5811737) (4)
+* [0.1µF Capacitors](https://www.digikey.com/product-detail/en/murata-electronics-north-america/RDER71H104K0P1H03B/490-8815-ND/4770970) (4)
 * [1 MegaOhm Resistor Array](https://www.digikey.com/product-detail/en/bourns-inc/4605X-101-105LF/4605X-101-105LF-ND/3787497)
 * [LM324N OpAmp](https://www.digikey.com/product-detail/en/texas-instruments/LM324N/296-1391-5-ND/277627)
 * [14 Position Female Headers](https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC141LFBN-RC/S7012-ND/810152) (2)
