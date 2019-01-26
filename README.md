@@ -8,7 +8,7 @@ to XInput, combining either two Joysticks or four Paddles (or any combination) i
 
 As a bonus, it also supports the hidden Atari games in Tesla automobiles so you can play them with a real Atari joystick.
 
-**NOTE**: If you only need joystick functionality, you don't need to install all of the extra components on the PCB. You only need the D-SUB Plug controller ports and a Teensy LC (and optionally the female headers). For paddle support, you need everything. Here is the complete components list:
+**NOTE**: If you only need joystick functionality, you don't need to install all of the extra components on the PCB. You only need the D-SUB Plug ports and a Teensy LC (and optionally the female headers). For paddle support, you need everything. Here is the complete components list:
 
 * [Teensy LC](https://www.pjrc.com/store/teensylc.html)
 * [D-SUB PLUGS](https://www.digikey.com/product-detail/en/amphenol-icc-fci/LD09P13A4GX00LF/609-5183-ND/4997285) (2)
@@ -19,8 +19,8 @@ As a bonus, it also supports the hidden Atari games in Tesla automobiles so you 
 * [14 Position Female Headers](https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC141LFBN-RC/S7012-ND/810152) (2)
 * [2 Position Male Headers](https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/640456-2/A1921-ND/109003) (3)
 
-The XInput functionality is based on the excellent [MSF_FightStick XINPUT](https://github.com/zlittell/MSF-XINPUT) project 
-by Zack "Reaper" Littell. I have provided source code and pre-compiled .HEX firmware.
+I have provided source code and pre-compiled .HEX firmware. The XInput functionality is based on the excellent [MSF_FightStick XINPUT](https://github.com/zlittell/MSF-XINPUT) project 
+by Zack "Reaper" Littell.
 
 Default mappings:
 
