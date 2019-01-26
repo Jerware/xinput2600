@@ -1,7 +1,7 @@
 # xinput2600
 XInput Adapter for Atari 2600 Controllers
 
-This project was initially created for [Starlords](https://www.tested.com/premium/852029-bits-atoms-starlords-arcade-cabinet-part-1/), 
+This project was initially created for [Starlords](https://youtu.be/S8GnZouBUoo), 
 a physical arcade game & cabinet developed by Tested.com and Other Ocean Interactive. This code, when paried with 
 [the PCB available on OshPark](https://oshpark.com/shared_projects/ybyjPbuy), converts signals from original Atari 2600 controllers 
 to XInput, combining either two Joysticks or four Paddles (or any combination) into a single virtual gamepad.
