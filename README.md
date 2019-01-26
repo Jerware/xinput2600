@@ -4,13 +4,13 @@ XInput Adapter for Atari 2600 Controllers
 This project was initially created for [Starlords](https://youtu.be/S8GnZouBUoo), 
 a physical arcade game & cabinet developed by Tested.com and Other Ocean Interactive. This code, when paried with 
 [the PCB available on OshPark](https://oshpark.com/shared_projects/ybyjPbuy), converts signals from original Atari 2600 controllers 
-to XInput, combining either two Joysticks or four Paddles (or any combination) into a single virtual gamepad.
+to XInput, combining either two Joysticks or four Paddles (or any combination) into a single virtual gamepad. The XInput functionality
+is based on the excellent [MSF_FightStick XINPUT](https://github.com/zlittell/MSF-XINPUT) project by Zack "Reaper" Littell.
 
 As a bonus, it also supports the hidden Atari games in Tesla automobiles so you can play them with a real Atari joystick.
 
 I have provided source code and pre-compiled .HEX firmware. To flash the compiled firmware on a Teensy LC, use the official
-[Teensy Loader](https://www.pjrc.com/teensy/loader.html) application. The XInput functionality is based on the excellent 
-[MSF_FightStick XINPUT](https://github.com/zlittell/MSF-XINPUT) project by Zack "Reaper" Littell.
+[Teensy Loader](https://www.pjrc.com/teensy/loader.html) application.
 
 **Note**: If you only want Joystick functionality (i.e. no Paddles), you don't need to include most of the components on the PCB. 
 You'll only need the PCB, Teensy LC, D-Sub Plugs, and optionally the male & female headers. In this case, please install 
