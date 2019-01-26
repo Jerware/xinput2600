@@ -6,7 +6,7 @@ a physical arcade game & cabinet developed by Tested.com and Other Ocean Interac
 [the PCB available on OshPark](https://oshpark.com/shared_projects/ybyjPbuy), converts signals from original Atari 2600 controllers 
 to XInput, combining either two Joysticks or four Paddles (or any combination) into a single virtual gamepad.
 
-As an added bonus, it also supports the hidden Atari games in Tesla automobiles so you can play them with real Atari controllers.
+As an added bonus, it also supports the hidden Atari games in Tesla automobiles so you can play them with a real Atari joystick.
 
 **NOTE**: If you only need joystick functionality, you don't need to install all of the extra components on the PCB. You only need the D-SUB Plug controller ports and a Teensy LC (and optionally the female headers). For paddle support, you need everything. Here is the complete components list:
 
