@@ -1,6 +1,8 @@
 # xinput2600
 XInput Adapter for Atari 2600 Controllers
 
+<a href="images/x2600_angle.jpg"><img src="https://github.com/Jerware/xinput2600/blob/master/images/x2600_angle_small.jpg" width="400" height="300"></a><a href="images/x2600_top.jpg"><img src="https://github.com/Jerware/xinput2600/blob/master/images/x2600_top_small.jpg" width="400" height="300"></a>
+
 This project was initially created for [Starlords](https://youtu.be/S8GnZouBUoo), 
 a physical arcade game & cabinet developed by Tested.com and Other Ocean Interactive. This code, when paried with 
 [the PCB available on OshPark](https://oshpark.com/shared_projects/ybyjPbuy), converts signals from original Atari 2600 controllers 
