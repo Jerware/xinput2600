@@ -44,5 +44,5 @@ Default mappings:
 * Paddle 2 button -> RB
 * Paddle 3 -> Right Analog X Axis
 * Paddle 3 button -> L3
-* Paddle 4 -> Right Analog X Axis
+* Paddle 4 -> Right Analog Y Axis
 * Paddle 4 button -> R3
